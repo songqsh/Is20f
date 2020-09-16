@@ -1,2 +1,2 @@
-- Introduce yourself
-- update the link to each file to your work
+Chenyu Wu </br>
+WPI Financial Math Master
