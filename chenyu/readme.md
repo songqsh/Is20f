@@ -6,3 +6,4 @@ __Fast Fourier Transform__
 - [Fast Fourier Transform Speed Comparison](Speed_Comparison.ipynb)
 - [FFT Thesis Report](Fast_Fourier_Transform_Thesis_Report.pdf)
 - [Heston Model FFT](Heston_FFT.ipynb)
+- [VG FFT](Variance_Gamma_FFT.ipynb)
