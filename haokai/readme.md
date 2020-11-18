@@ -6,4 +6,4 @@ __Fast Fourier Transform__
 - [Fast Fourier Transform Speed Comparison](Speed_Comparison.ipynb)
 - [Heston-FFT](Heston-FFT.ipynb)
 - [Fast Fourier Transform Thesis Report](Fast_Fourier_Transform_Thesis_Report.pdf)
-- [CGMY-FFT-and-calibration](CGMY-FFT and calibration.ipynb)
+- [CGMY-FFT-and-calibration](CGMY-FFT_and_calibration.ipynb)
