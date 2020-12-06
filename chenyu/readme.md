@@ -8,4 +8,4 @@ __Fast Fourier Transform__
 - [Heston Model FFT](Heston_FFT.ipynb)
 - [VG FFT](Variance_Gamma_FFT.ipynb)
 - [VG Calibration](Calibration.ipynb)
-- [FFT Thesis Report]<a href="/pdfs/Fast_Fourier_Transform_Thesis_Report.pdf" class="image fit"><img src="Fast_Fourier_Transform_Thesis_Report.jpg" alt=""></a>
+- [FFT Thesis Report](<a href="/pdfs/Fast_Fourier_Transform_Thesis_Report.pdf" class="image fit"><img src="Fast_Fourier_Transform_Thesis_Report.jpg" alt=""></a>)
