@@ -9,5 +9,5 @@ __Fast Fourier Transform__
 - [VG FFT](Variance_Gamma_FFT.ipynb)
 - [VG Calibration](Calibration.ipynb)
 - <a href="wuchenyu38.github.io/PDFs/Option Pricing using VarianceGamma.pdf" target="_blank">Option Pricing using Variance Gamma</a>
-- <a href="/PDFs/Variance Gamma Process.pdf" class="image fit">Variance Gamma Process</a>
+- <a href="wuchenyu38.github.io/PDFs/Variance Gamma Process.pdf" class="image fit">Variance Gamma Process</a>
 
