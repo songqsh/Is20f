@@ -7,3 +7,7 @@ __Fast Fourier Transform__
 - [FFT Thesis Report](Fast_Fourier_Transform_Thesis_Report.pdf)
 - [Heston Model FFT](Heston_FFT.ipynb)
 - [VG FFT](Variance_Gamma_FFT.ipynb)
+- [VG Calibration](Calibration.ipynb)
+- <a href="wuchenyu38.github.io/PDFs/Option Pricing using VarianceGamma.pdf" target="_blank">Option Pricing using Variance Gamma</a>
+- <a href="wuchenyu38.github.io/PDFs/Variance Gamma Process.pdf" class="image fit">Variance Gamma Process</a>
+
